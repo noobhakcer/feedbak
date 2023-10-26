@@ -20,7 +20,6 @@ export default function Home() {
           submissions can be found in the Netlify Admin site.
         </p>
         <FeedbackForm />
-        <JokeBlock />
       </main>
       <Footer />
     </div>
